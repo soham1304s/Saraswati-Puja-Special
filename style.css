@@ -28,7 +28,7 @@ h3{
 .centerimg{
     position: absolute;
     top: 130%;
-    left: 52%;
+    left: 50%;
     transform: translate(-50%, -50%);
 }
 .centerimg h3{
